@@ -4,3 +4,7 @@
 @theme{
   --font-poppins: "Poppins", sans-serif;
 }
+.active{
+  background : #e9ecef;
+  color : black;
+}
